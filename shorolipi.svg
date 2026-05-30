@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="121.32374mm"
+   height="121.32374mm"
+   viewBox="0 0 121.32374 121.32374"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="shorolipi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="0"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.79033813"
+     inkscape:cx="226.48534"
+     inkscape:cy="265.70906"
+     inkscape:window-width="1536"
+     inkscape:window-height="792"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:clip-to-page="false" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter64"
+       x="-0.0028212801"
+       y="-0.0025071286"
+       width="1.0173979"
+       height="1.0154606">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood63" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="0.100000"
+         id="feGaussianBlur63" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="1.000000"
+         dy="1.000000"
+         id="feOffset63" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite63" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite64" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-245.38683,-104.0865)">
+    <rect
+       style="fill:#6c5353;stroke:#000000;stroke-width:0"
+       id="rect7"
+       width="121.32374"
+       height="121.32374"
+       x="245.38683"
+       y="104.0865"
+       rx="6.773602"
+       ry="7.8872805" />
+    <path
+       d="m 338.75267,171.94389 9.72789,7.64334 0.10202,33.02466 h -9.80971 v -13.85118 l -18.46823,-12.15825 c -0.92341,3.79625 -2.30853,7.28469 -4.15536,10.46533 -1.84682,3.18064 -4.05275,5.89958 -6.61778,8.15681 -2.46243,2.25723 -5.28397,4.05275 -8.46461,5.38657 -3.07804,1.23121 -6.36128,1.84682 -9.84973,1.84682 -12.31216,0 -21.54628,-7.18209 -27.70235,-21.54628 l 2.15462,0.46171 c 2.25723,5.64307 5.64308,10.15753 10.15753,13.54337 4.51446,3.38585 9.54193,5.07877 15.0824,5.07877 3.18064,0 6.20738,-0.56431 9.08022,-1.69292 2.97543,-1.23122 5.64307,-2.92414 8.0029,-5.07877 2.46243,-2.25723 4.51446,-4.87356 6.15608,-7.849 1.74422,-3.07804 3.07804,-6.46388 4.00145,-10.15753 -2.66763,-2.05203 -5.38657,-4.05275 -8.1568,-6.00218 -2.66764,-2.05203 -5.38657,-4.10405 -8.15681,-6.15608 l -24.77822,-19.08385 c -4.92486,-4.41185 -7.38729,-10.05493 -7.38729,-16.92922 0,-2.87283 0.4104,-5.54047 1.23121,-8.0029 0.92341,-2.56503 2.15463,-4.71966 3.69365,-6.46388 1.53902,-1.74423 3.33454,-3.12934 5.38657,-4.15536 2.15463,-1.02601 4.46316,-1.53902 6.92559,-1.53902 h 24.31651 l -4.00145,2.46243 H 286.4462 c -3.48844,0 -6.66908,1.33382 -9.54192,4.00146 l 30.16479,23.7009 c 2.87284,2.56504 5.18137,4.97617 6.92559,7.2334 1.84682,2.15463 3.28324,4.36055 4.30925,6.61778 1.02601,2.15463 1.69292,4.41186 2.00073,6.77169 0.3078,2.25723 0.4617,4.66837 0.4617,7.2334 0,4.41185 -0.1539,7.07949 -0.4617,8.0029 l 18.46823,12.15826 z"
+       id="text1"
+       style="font-size:153.902px;font-family:'Li Upohar 56 Unicode';-inkscape-font-specification:'Li Upohar 56 Unicode';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0;filter:url(#filter64)"
+       aria-label="স"
+       sodipodi:nodetypes="ccccccsccsccsscccccccscscsccscccccsccc" />
+  </g>
+</svg>
