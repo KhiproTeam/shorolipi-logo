@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.79033813"
      inkscape:cx="226.48534"
-     inkscape:cy="265.70906"
+     inkscape:cy="266.97434"
      inkscape:window-width="1536"
      inkscape:window-height="792"
      inkscape:window-x="0"
@@ -93,6 +93,7 @@
        id="text1"
        style="font-size:153.902px;font-family:'Li Upohar 56 Unicode';-inkscape-font-specification:'Li Upohar 56 Unicode';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0;filter:url(#filter64)"
        aria-label="স"
-       sodipodi:nodetypes="ccccccsccsccsscccccccscscsccscccccsccc" />
+       sodipodi:nodetypes="ccccccsccsccsscccccccscscsccscccccsccc"
+       transform="matrix(0.88819962,0,0,0.88819962,34.272263,18.474832)" />
   </g>
 </svg>
